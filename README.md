@@ -4,7 +4,7 @@
 
 # Team 14 | Elect-ron : The E-Voting App for Student Body Elections |
 
-<br><br>
+<br>
 
 <p align="center">
   <img width="50%" src="Screenshots/votetime.jpg">
