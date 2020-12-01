@@ -10,6 +10,8 @@
   <img width="50%" src="Screenshots/votetime.jpg">
 </p>
 
+<br>
+
 ### Project Overview
 
 * Problem Definition
