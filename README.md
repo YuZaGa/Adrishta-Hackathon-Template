@@ -1,3 +1,4 @@
+![](Application Code/public/img/ico.ico)
 
 ## Team Number \14 - \Elect-ron : The E-vote app for student body elections
 
