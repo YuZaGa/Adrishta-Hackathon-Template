@@ -1,5 +1,8 @@
+<p align="center">
+  <img width="100px" src="https://icons-for-free.com/iconfiles/png/512/poll+18px-131987943364213195.png">
+</p>
 
-## Team Number \14 - \Elect-ron : The E-vote app for student body elections
+# Team 14 | Elect-ron : The E-Voting App for Student Body Elections
 
 ![](Screenshots/votetime.jpg)
 
@@ -11,7 +14,7 @@
 * Solution Strategy
     > Online e-Voting is a critical step for the evolution of the voting process. It is an ideal means for elections of college council in this pandemic and even in normal times as we have achieved advancement in technology, peneration of internet and knowldege of security that a free and fair election can be conducted which is accessible to all memebers of the society.
 
-    >Elect-ron has been developed for college students to cast their votes anytime and from anywhere using browsers.  The aim of this web app is to provide convenience to voters as well as officials who monitor the voting process. The app gives election results accurately and instantaneously.
+    > Elect-ron has been developed for college students to cast their votes anytime and from anywhere using browsers.  The aim of this web app is to provide convenience to voters as well as officials who monitor the voting process. The app gives election results accurately and instantaneously.
 
 ### Solution Description
 
@@ -74,8 +77,8 @@ An overview of:
 
 * Instructions to run the code : 
     * Clone the repository
-    * npm i
-    * node app.js
+    *       npm i
+    *       node app.js
 
 ### Screenshots
 
