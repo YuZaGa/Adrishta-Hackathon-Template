@@ -55,9 +55,9 @@
 
 #### Architecture Diagram
 
-![System Administratr Screen Flow Diagram](Screenshots/Admin.png)
+![System Administratr Screen Flow Diagram](Screenshots/Admin1.png)
 
-![Student Screen Flow Diagram](Screenshots/Voter.png)
+![Student Screen Flow Diagram](Screenshots/Voter1.png)
 
 
 #### Technical Description
