@@ -69,14 +69,14 @@ An overview of:
     * node app.js
 
 ### Screenshots
-
+![](Screenshots/1.png)
 
 ### Team Members
 List of team member names and email IDs with their contributions.
 |Member Name|Email|Contribution|
 |-----------|-----|------------|
 |Aryan Felix|aryan_201800461@smit.smu.edu.in|User Interface & Backend|
-|Pramit Pujara|pramit_201800464@smit.smu.edu.in|User Interface |
+|Pramit Pujara|pramit_201800464@smit.smu.edu.in|User Interface & FC Designer|
 |Yumn Gauhar|yumn_201800067@smit.smu.edu.in|System Design & Documentation|
 
 ### References
