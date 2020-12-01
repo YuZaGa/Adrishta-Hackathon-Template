@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="20px" height="20px" src="https://icons-for-free.com/iconfiles/png/512/poll+18px-131987943364213195.png">
+  <img width="75px" height="75px" src="https://icons-for-free.com/iconfiles/png/512/poll+18px-131987943364213195.png">
 </p>
 
 ## Team Number \14 - \Elect-ron : The E-vote app for student body elections
