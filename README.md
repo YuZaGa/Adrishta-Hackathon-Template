@@ -1,8 +1,5 @@
-<p align="center">
-  <img width="75px" height="75px" src="https://icons-for-free.com/iconfiles/png/512/poll+18px-131987943364213195.png">
-</p>
 
-# Team Number - 14 | Elect-ron : The E-Voting App for Student Body Elections
+## Team Number \14 - \Elect-ron : The E-vote app for student body elections
 
 ![](Screenshots/votetime.jpg)
 
@@ -19,6 +16,8 @@
 ### Solution Description
 
 >The app has an easy to use interface “Login Screen” for voters where they can login with their College ids. Each voter’sdata is stored in database containing their essential information such as College email account id and a votingstatus which stores whether voter  has voted or not. After login, voters have access to voting interface “Voting Screen” that allows them to select candidates for the given positions and submit their voting data securely. Once a voter submits his/her response, then re-submission will not be permissible. Thus, Elect-ron ensures that there is no bogus or fake voting in the elections.
+
+>The tally button shows the real time data of the votes polled for each candidate. 
 
 >The complete voting procedure is under System Admin' s control. Admin has to sign-in with the predefined id. After successful sign in, admin gets access to “Admin Screen” where options adding and removing positions  and candidates as well as changing the voterstatus. It uses MongoDB as Backend . Data is stored as JSON and synchronized in real-time to every connected client. 
 
@@ -81,7 +80,13 @@ An overview of:
 
 ![OTP](Screenshots/2.png)
 
-![One Person One Vote](Screenshots/5.png)
+![Voting Screen](Screenshots/voterscreen.png)
+
+![Voting Results](Screenshots/tally.png)
+
+![Admin Panel](Screenshots/6.png)
+
+
 
 
 
