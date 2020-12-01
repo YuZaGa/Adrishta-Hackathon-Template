@@ -15,7 +15,7 @@
 
 ### Solution Description
 
->The app has an easy to use interface “Login Screen” for voters where they can login with their College ids. Each voter’s data is stored in database containing their essential information such as College email account id and a votings tatus which stores whether voter  has voted or not. After login, voters have access to voting interface “Voting Screen” that allows them to select candidates for the given positions and submit their voting data securely. Once a voter submits his/her response, then re-submission will not be permissible. Thus, Elect-ron ensures that there is no bogus or fake voting in the elections.
+>The app has an easy to use interface “Login Screen” for voters where they can login with their College ids. Each voter’s data is stored in database containing their essential information such as College email account id and a voting status which stores whether voter  has voted or not. After login, voters have access to voting interface “Voting Screen” that allows them to select candidates for the given positions and submit their voting data securely. Once a voter submits his/her response, then re-submission will not be permissible. Thus, Elect-ron ensures that there is no bogus or fake voting in the elections.
 
 >The tally button leads to a different which shows the real time data of the votes polled for each candidate. 
 
@@ -55,10 +55,11 @@
 
 #### Architecture Diagram
 
-* System Administratr Screen Flow Diagram
+* System Administrator Screen Flow Diagram
 ![System Administratr Screen Flow Diagram](Screenshots/Admin1.png)
 
 * Student Screen Flow Diagram
+
 ![Student Screen Flow Diagram](Screenshots/Voter1.png)
 
 
@@ -85,7 +86,7 @@ An overview of:
 ![OTP](Screenshots/2.png)
 
 * Voting Screen
-![Voting Screen](Screenshots/voterscreen.png)
+![Voting Screen](Screenshots/votescreen.png)
 
 * Voting Results
 ![Voting Results](Screenshots/tally.png)
