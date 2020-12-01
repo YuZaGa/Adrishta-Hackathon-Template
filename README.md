@@ -94,6 +94,9 @@ An overview of:
 * Admin Panel
 ![Admin Panel](Screenshots/6.png)
 
+* Adding Candidate for a position
+![Adding Candidate for a position](Screenshots/8.png)
+
 
 
 
