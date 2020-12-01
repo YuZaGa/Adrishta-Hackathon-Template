@@ -58,7 +58,7 @@
 
 An overview of:
 * Technologies Used : 
-    * Git, Node, MongoDB, Express, HTML,CSS 
+    * Git, Node, MongoDB, Express, HTML,CSS , EJS
 
 * Setup/Installations required to run the solution
     * Git, Node, MongoDB Atlas account, IDE
