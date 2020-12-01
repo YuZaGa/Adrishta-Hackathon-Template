@@ -1,6 +1,8 @@
 
 ## Team Number \14 - \Elect-ron : The E-vote app for student body elections
 
+![](Screenshots/votetime.jpg)
+
 ### Project Overview
 
 * Problem Definition
@@ -52,13 +54,16 @@
 
 #### Architecture Diagram
 
+![System Administratr Screen Flow Diagram](Screenshots/Admin.png)
+
+![Student Screen Flow Diagram](Screenshots/Voter.png)
 
 
 #### Technical Description
 
 An overview of:
 * Technologies Used : 
-    * Git, Node, MongoDB, Express, HTML,CSS , EJS
+    * Git, Node, MongoDB, Express, HTML,CSS 
 
 * Setup/Installations required to run the solution
     * Git, Node, MongoDB Atlas account, IDE
@@ -69,7 +74,13 @@ An overview of:
     * node app.js
 
 ### Screenshots
-![](Screenshots/1.png)
+![Landing Page](Screenshots/1.png)
+
+![OTP](Screenshots/2.png)
+
+![One Person One Vote](Screenshots/5.png)
+
+
 
 ### Team Members
 List of team member names and email IDs with their contributions.
