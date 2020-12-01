@@ -9,9 +9,13 @@
 * Solution Strategy
     > Online e-Voting is a critical step for the evolution of the voting process. It is an ideal means for elections of college council in this pandemic and even in normal times as we have achieved advancement in technology, peneration of internet and knowldege of security that a free and fair election can be conducted which is accessible to all memebers of the society.
 
-    >Elect-ron developed for college students to cast their votes anytime and from anywhere using android devices. The aim of thisapp is to provide convenience to voters as well as election officers who monitor the voting process. The appgives election resultsaccurately and instantaneously.
+    >Elect-ron developed for college students to cast their votes anytime and from anywhere using browsers.  The aim of this app is to provide convenience to voters as well as officials who monitor the voting process. The appg gives election results accurately and instantaneously.
 
 ### Solution Description
+
+>The app has an easy to use interface “Login Screen” for voters where they can login with their College ids. Each voter’sdata is stored in database containing their essential information such as College email account id and a votingstatus which stores whether voter  has voted or not. After login, voters have access to voting interface “Voting Screen” that allows them to select candidates for the given positions and submit their voting data securely. Once a voter submits his/her response, then re-submission will not be permissible. Thus, Elect-ron ensures that there is no bogus or fake voting in the elections.
+
+>The complete voting procedure is under System Admin' s control. Admin has to sign-in with the predefined id. After successful sign in, admin gets access to “Admin Screen” where options adding and removing positions  and candidates as well as changing the voterstatus. It uses MongoDB as Backend . Data is stored as JSON and synchronized in real-time to every connected client. 
 
 ### Implemetation
 
@@ -38,9 +42,11 @@
   
   * Private Poll - System administrator of the app can upload required data of all valid voters in the system. Then the whole process would be automatic & anonymous where even the system admin would be oblivious to the choices made by the student. 
   
-  * Security - 
+  * Security - The Email-OTP module ensures that only students with the required credentials( valid College ID) can participate in the election process. 
   
   * One User One Vote - The OTP-FLag model ensures that a single voter can vote only one time. And trying to vote multiple times is not possible. 
+  
+  * Robust - The web-browser based nature of the system ensures that everyone has to go through minimal amaount of hassle( installing apps can be problematic to many if noot published through play store which if done increases the cost overhead) for casting their vote. 
   
 
 
@@ -63,14 +69,14 @@ An overview of:
     * node app.js
 
 ### Screenshots
-Affix the relevant screenshots of the developed project here.
+![](Screenshots/1.png)
 
 ### Team Members
 List of team member names and email IDs with their contributions.
 |Member Name|Email|Contribution|
 |-----------|-----|------------|
 |Aryan Felix|aryan_201800461@smit.smu.edu.in|User Interface & Backend|
-|Pramit Pujara|pramit_201800464@smit.smu.edu.in|User Interface |
+|Pramit Pujara|pramit_201800464@smit.smu.edu.in|User Interface & FC Designer|
 |Yumn Gauhar|yumn_201800067@smit.smu.edu.in|System Design & Documentation|
 
 ### References
