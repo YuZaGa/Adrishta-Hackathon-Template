@@ -2,7 +2,7 @@
   <img width="75px" height="75px" src="https://icons-for-free.com/iconfiles/png/512/poll+18px-131987943364213195.png">
 </p>
 
-# Team Number - 14 | Elect-ron : The E-Voting App for Student Body Eelections
+# Team Number - 14 | Elect-ron : The E-Voting App for Student Body Elections
 
 ![](Screenshots/votetime.jpg)
 
